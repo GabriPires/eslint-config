@@ -1,6 +1,6 @@
 {
   "name": "@gabpires/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My favorites rules and configuration of ESLint",
   "main": "index.js",
   "scripts": {
